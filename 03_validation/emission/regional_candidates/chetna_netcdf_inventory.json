@@ -1,0 +1,842 @@
+[
+  {
+    "file": "chetna_52545953.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Indore",
+      "state": "Madhya pradesh",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          40
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          44
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          40,
+          44
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      22.62526,
+      22.820259999999962
+    ],
+    "lon_range": [
+      75.77168358296987,
+      75.98668358296968
+    ]
+  },
+  {
+    "file": "chetna_52545956.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Tiruppur",
+      "state": "Tamil nadu",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          31
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          27
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          31,
+          27
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      11.033680311254534,
+      11.183680311254557
+    ],
+    "lon_range": [
+      77.28790537074768,
+      77.41790537074756
+    ]
+  },
+  {
+    "file": "chetna_52545959.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Chandigarh",
+      "state": "Chandigarh",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          26
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          29
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          26,
+          29
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      30.664953610707176,
+      30.78995361070715
+    ],
+    "lon_range": [
+      76.70529768480988,
+      76.84529768480975
+    ]
+  },
+  {
+    "file": "chetna_52545962.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Jaipur",
+      "state": "Rajasthan",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          50
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          45
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          50,
+          45
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      26.7753,
+      27.020299999999953
+    ],
+    "lon_range": [
+      75.68875827983612,
+      75.90875827983592
+    ]
+  },
+  {
+    "file": "chetna_52545965.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          34
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          32
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          34,
+          32
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      22.215147960049286,
+      22.380147960049253
+    ],
+    "lon_range": [
+      73.11383610995443,
+      73.2688361099543
+    ]
+  },
+  {
+    "file": "chetna_52545968.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          38
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          42
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          38,
+          42
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      18.428881511433325,
+      18.613881511433288
+    ],
+    "lon_range": [
+      73.75207,
+      73.95706999999982
+    ]
+  },
+  {
+    "file": "chetna_52545971.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Mangaluru",
+      "state": "Karnataka",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          41
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          28
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          41,
+          28
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      12.828768935917871,
+      13.028768935917903
+    ],
+    "lon_range": [
+      74.78504815132452,
+      74.9200481513244
+    ]
+  },
+  {
+    "file": "chetna_52545974.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Kolkata",
+      "state": "West bengal",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          37
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          44
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          37,
+          44
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      22.450331632797962,
+      22.630331632797926
+    ],
+    "lon_range": [
+      88.24288,
+      88.4578799999998
+    ]
+  },
+  {
+    "file": "chetna_52545977.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Guwahati",
+      "state": "Assam",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          25
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          44
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          25,
+          44
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      26.084322171076092,
+      26.20432217107607
+    ],
+    "lon_range": [
+      91.63466521214157,
+      91.84966521214137
+    ]
+  },
+  {
+    "file": "chetna_52545980.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Lucknow",
+      "state": "Uttar pradesh",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          39
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          46
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          39,
+          46
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      26.7441057773186,
+      26.934105777318564
+    ],
+    "lon_range": [
+      80.83268258448172,
+      81.05768258448151
+    ]
+  },
+  {
+    "file": "chetna_52545983.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Chennai",
+      "state": "Tamil nadu",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          76
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          39
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          76,
+          39
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      12.852173216773062,
+      13.22717321677312
+    ],
+    "lon_range": [
+      80.14022965876426,
+      80.33022965876408
+    ]
+  },
+  {
+    "file": "chetna_52545986.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Delhi",
+      "state": "Delhi",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          96
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          102
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          96,
+          102
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      28.404783841325198,
+      28.879783841325104
+    ],
+    "lon_range": [
+      76.83897704155049,
+      77.34397704155003
+    ]
+  },
+  {
+    "file": "chetna_52545989.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          54
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          70
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          54,
+          70
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      17.292082499868943,
+      17.55708249986889
+    ],
+    "lon_range": [
+      78.27177215164681,
+      78.6167721516465
+    ]
+  },
+  {
+    "file": "chetna_52545992.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          75
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          41
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          75,
+          41
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      18.89402,
+      19.264019999999928
+    ],
+    "lon_range": [
+      72.77725,
+      72.97724999999981
+    ]
+  },
+  {
+    "file": "chetna_52545995.nc",
+    "attrs": {
+      "title": "CO2 emissions",
+      "units": "tonnes",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "year": "2021",
+      "author": "Rohith Teja"
+    },
+    "variables": {
+      "time": {
+        "shape": [
+          365
+        ],
+        "attrs": {
+          "units": "days since 2021-01-01 00:00:00",
+          "calendar": "proleptic_gregorian"
+        }
+      },
+      "lat": {
+        "shape": [
+          62
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "lon": {
+        "shape": [
+          64
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      },
+      "co2": {
+        "shape": [
+          365,
+          62,
+          64
+        ],
+        "attrs": {
+          "_FillValue": NaN
+        }
+      }
+    },
+    "lat_range": [
+      12.834442104125497,
+      13.139442104125544
+    ],
+    "lon_range": [
+      77.46014341188653,
+      77.77514341188625
+    ]
+  }
+]

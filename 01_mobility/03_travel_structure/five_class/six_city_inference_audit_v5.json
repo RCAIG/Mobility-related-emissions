@@ -1,0 +1,391 @@
+{
+  "all_valid": true,
+  "total_input_rows": 21502354,
+  "total_prediction_rows": 21502354,
+  "city_years": [
+    {
+      "city_id": 1262,
+      "year": 2017,
+      "input_rows": 4618302,
+      "prediction_rows": 4618302,
+      "chunk_count": 6,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 827683,
+          "prediction_rows": 827683,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 784821,
+          "prediction_rows": 784821,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 899339,
+          "prediction_rows": 899339,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 848731,
+          "prediction_rows": 848731,
+          "valid": true
+        },
+        {
+          "chunk": "0004",
+          "input_rows": 885868,
+          "prediction_rows": 885868,
+          "valid": true
+        },
+        {
+          "chunk": "0005",
+          "input_rows": 371860,
+          "prediction_rows": 371860,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 1262,
+      "year": 2024,
+      "input_rows": 4666364,
+      "prediction_rows": 4666364,
+      "chunk_count": 6,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 828775,
+          "prediction_rows": 828775,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 802071,
+          "prediction_rows": 802071,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 905236,
+          "prediction_rows": 905236,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 846716,
+          "prediction_rows": 846716,
+          "valid": true
+        },
+        {
+          "chunk": "0004",
+          "input_rows": 910695,
+          "prediction_rows": 910695,
+          "valid": true
+        },
+        {
+          "chunk": "0005",
+          "input_rows": 372871,
+          "prediction_rows": 372871,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 2335,
+      "year": 2017,
+      "input_rows": 2232002,
+      "prediction_rows": 2232002,
+      "chunk_count": 4,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 664558,
+          "prediction_rows": 664558,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 675458,
+          "prediction_rows": 675458,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 667598,
+          "prediction_rows": 667598,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 224388,
+          "prediction_rows": 224388,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 2335,
+      "year": 2024,
+      "input_rows": 2183472,
+      "prediction_rows": 2183472,
+      "chunk_count": 4,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 640628,
+          "prediction_rows": 640628,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 663174,
+          "prediction_rows": 663174,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 660088,
+          "prediction_rows": 660088,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 219582,
+          "prediction_rows": 219582,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 1186,
+      "year": 2017,
+      "input_rows": 1378065,
+      "prediction_rows": 1378065,
+      "chunk_count": 4,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 447880,
+          "prediction_rows": 447880,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 460308,
+          "prediction_rows": 460308,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 444323,
+          "prediction_rows": 444323,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 25554,
+          "prediction_rows": 25554,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 1186,
+      "year": 2024,
+      "input_rows": 1634642,
+      "prediction_rows": 1634642,
+      "chunk_count": 4,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 534188,
+          "prediction_rows": 534188,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 542193,
+          "prediction_rows": 542193,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 527521,
+          "prediction_rows": 527521,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 30740,
+          "prediction_rows": 30740,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 1301,
+      "year": 2017,
+      "input_rows": 380097,
+      "prediction_rows": 380097,
+      "chunk_count": 2,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 251537,
+          "prediction_rows": 251537,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 128560,
+          "prediction_rows": 128560,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 1301,
+      "year": 2024,
+      "input_rows": 396300,
+      "prediction_rows": 396300,
+      "chunk_count": 2,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 267209,
+          "prediction_rows": 267209,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 129091,
+          "prediction_rows": 129091,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 906,
+      "year": 2017,
+      "input_rows": 1556812,
+      "prediction_rows": 1556812,
+      "chunk_count": 4,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 480918,
+          "prediction_rows": 480918,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 465111,
+          "prediction_rows": 465111,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 477431,
+          "prediction_rows": 477431,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 133352,
+          "prediction_rows": 133352,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 906,
+      "year": 2024,
+      "input_rows": 1555181,
+      "prediction_rows": 1555181,
+      "chunk_count": 4,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 480481,
+          "prediction_rows": 480481,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 464985,
+          "prediction_rows": 464985,
+          "valid": true
+        },
+        {
+          "chunk": "0002",
+          "input_rows": 476681,
+          "prediction_rows": 476681,
+          "valid": true
+        },
+        {
+          "chunk": "0003",
+          "input_rows": 133034,
+          "prediction_rows": 133034,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 353,
+      "year": 2017,
+      "input_rows": 449638,
+      "prediction_rows": 449638,
+      "chunk_count": 2,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 362344,
+          "prediction_rows": 362344,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 87294,
+          "prediction_rows": 87294,
+          "valid": true
+        }
+      ]
+    },
+    {
+      "city_id": 353,
+      "year": 2024,
+      "input_rows": 451479,
+      "prediction_rows": 451479,
+      "chunk_count": 2,
+      "valid": true,
+      "chunks": [
+        {
+          "chunk": "0000",
+          "input_rows": 363991,
+          "prediction_rows": 363991,
+          "valid": true
+        },
+        {
+          "chunk": "0001",
+          "input_rows": 87488,
+          "prediction_rows": 87488,
+          "valid": true
+        }
+      ]
+    }
+  ]
+}

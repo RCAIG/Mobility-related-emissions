@@ -1,0 +1,546 @@
+{
+  "files": [
+    {
+      "id": 52545962,
+      "name": "co2_emission.nc",
+      "size": 6583320,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545962",
+      "supplied_md5": "1961239bde6e434916c5d82b8cae6280",
+      "computed_md5": "1961239bde6e434916c5d82b8cae6280",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545953,
+      "name": "co2_emission.nc",
+      "size": 5152525,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545953",
+      "supplied_md5": "84b31260f4af23dc1b8649ffb52c28cf",
+      "computed_md5": "84b31260f4af23dc1b8649ffb52c28cf",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545956,
+      "name": "co2_emission.nc",
+      "size": 2457363,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545956",
+      "supplied_md5": "43bad64bc0c4f39ebee354389241d6ab",
+      "computed_md5": "43bad64bc0c4f39ebee354389241d6ab",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545959,
+      "name": "co2_emission.nc",
+      "size": 2215005,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545959",
+      "supplied_md5": "4a90df6211752c0dd8de56edc1728be2",
+      "computed_md5": "4a90df6211752c0dd8de56edc1728be2",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545968,
+      "name": "co2_emission.nc",
+      "size": 4673640,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545968",
+      "supplied_md5": "64b0bdc19ca59c8a21d0c7a728cfac00",
+      "computed_md5": "64b0bdc19ca59c8a21d0c7a728cfac00",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545965,
+      "name": "co2_emission.nc",
+      "size": 3190280,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545965",
+      "supplied_md5": "ff0376bf0aa6c0be6040aa6695d3ec86",
+      "computed_md5": "ff0376bf0aa6c0be6040aa6695d3ec86",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545971,
+      "name": "co2_emission.nc",
+      "size": 3365483,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545971",
+      "supplied_md5": "de14974442f81ca00b5230bd35c83de7",
+      "computed_md5": "de14974442f81ca00b5230bd35c83de7",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545974,
+      "name": "co2_emission.nc",
+      "size": 4767083,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545974",
+      "supplied_md5": "263b6522fb9e6f8e1d377588108465c8",
+      "computed_md5": "263b6522fb9e6f8e1d377588108465c8",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545980,
+      "name": "co2_emission.nc",
+      "size": 5251805,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545980",
+      "supplied_md5": "ab19b2b64ba718be757c5cf1803fc4f1",
+      "computed_md5": "ab19b2b64ba718be757c5cf1803fc4f1",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545977,
+      "name": "co2_emission.nc",
+      "size": 3225318,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545977",
+      "supplied_md5": "edacb99a9b269cd62a37011104250ae4",
+      "computed_md5": "edacb99a9b269cd62a37011104250ae4",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545986,
+      "name": "co2_emission.nc",
+      "size": 28605955,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545986",
+      "supplied_md5": "580618ce7d8d88d9e2b3cac4a2034c96",
+      "computed_md5": "580618ce7d8d88d9e2b3cac4a2034c96",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545983,
+      "name": "co2_emission.nc",
+      "size": 8668202,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545983",
+      "supplied_md5": "e6a49f175eb8d440c5bd02c4a8b62031",
+      "computed_md5": "e6a49f175eb8d440c5bd02c4a8b62031",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545989,
+      "name": "co2_emission.nc",
+      "size": 11050923,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545989",
+      "supplied_md5": "2a8a519b3d6214254998cae4802279ec",
+      "computed_md5": "2a8a519b3d6214254998cae4802279ec",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545995,
+      "name": "co2_emission.nc",
+      "size": 11599883,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545995",
+      "supplied_md5": "79bc27bdf4efa437427714439fcd853e",
+      "computed_md5": "79bc27bdf4efa437427714439fcd853e",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545992,
+      "name": "co2_emission.nc",
+      "size": 8992322,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545992",
+      "supplied_md5": "03e4942907af3db34c4565301e5442d1",
+      "computed_md5": "03e4942907af3db34c4565301e5442d1",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546022,
+      "name": "poll_emission.nc",
+      "size": 65720336,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546022",
+      "supplied_md5": "0bbb1606d7d54b71bbd41bd75ea2c71d",
+      "computed_md5": "0bbb1606d7d54b71bbd41bd75ea2c71d",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546016,
+      "name": "poll_emission.nc",
+      "size": 51412341,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546016",
+      "supplied_md5": "8a0bb0b22b9b30e29a88b67f0b44dc13",
+      "computed_md5": "8a0bb0b22b9b30e29a88b67f0b44dc13",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546001,
+      "name": "poll_emission.nc",
+      "size": 24460739,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546001",
+      "supplied_md5": "7332d44e7031eebf6ca387d64da0c622",
+      "computed_md5": "7332d44e7031eebf6ca387d64da0c622",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52545998,
+      "name": "poll_emission.nc",
+      "size": 22037141,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52545998",
+      "supplied_md5": "91aa710aba34af422a7e20a55e318654",
+      "computed_md5": "91aa710aba34af422a7e20a55e318654",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546013,
+      "name": "poll_emission.nc",
+      "size": 46623536,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546013",
+      "supplied_md5": "aa960fb7208099083b1c137403873c04",
+      "computed_md5": "aa960fb7208099083b1c137403873c04",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546004,
+      "name": "poll_emission.nc",
+      "size": 31789936,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546004",
+      "supplied_md5": "34679718031bb08505570d8cf4aaabb6",
+      "computed_md5": "34679718031bb08505570d8cf4aaabb6",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546007,
+      "name": "poll_emission.nc",
+      "size": 33541939,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546007",
+      "supplied_md5": "79b8482b8a95b91c804b8e47d98d10d6",
+      "computed_md5": "79b8482b8a95b91c804b8e47d98d10d6",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546019,
+      "name": "poll_emission.nc",
+      "size": 47557939,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546019",
+      "supplied_md5": "8f7ef9837be6b53a7dcb55c7dcd99495",
+      "computed_md5": "8f7ef9837be6b53a7dcb55c7dcd99495",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546025,
+      "name": "poll_emission.nc",
+      "size": 52405141,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546025",
+      "supplied_md5": "2e6a2dcf5921e6fb0f3b63b35eb3c3aa",
+      "computed_md5": "2e6a2dcf5921e6fb0f3b63b35eb3c3aa",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546010,
+      "name": "poll_emission.nc",
+      "size": 32140334,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546010",
+      "supplied_md5": "9f351f9a185179347e6de3b37c5b4171",
+      "computed_md5": "9f351f9a185179347e6de3b37c5b4171",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546040,
+      "name": "poll_emission.nc",
+      "size": 285946731,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546040",
+      "supplied_md5": "bac4040477fdc765bae6bd740cf85f38",
+      "computed_md5": "bac4040477fdc765bae6bd740cf85f38",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546028,
+      "name": "poll_emission.nc",
+      "size": 86569138,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546028",
+      "supplied_md5": "b9ab411acba243096e3d35c99fe762b8",
+      "computed_md5": "b9ab411acba243096e3d35c99fe762b8",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546034,
+      "name": "poll_emission.nc",
+      "size": 110396339,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546034",
+      "supplied_md5": "1be80fe54868707c0c9b331cd64431bc",
+      "computed_md5": "1be80fe54868707c0c9b331cd64431bc",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546037,
+      "name": "poll_emission.nc",
+      "size": 115885939,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546037",
+      "supplied_md5": "e96db4aa7770df1d4468434c18171916",
+      "computed_md5": "e96db4aa7770df1d4468434c18171916",
+      "mimetype": "application/x-hdf"
+    },
+    {
+      "id": 52546031,
+      "name": "poll_emission.nc",
+      "size": 89810338,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/52546031",
+      "supplied_md5": "f7b9f57ce0d822ad291956d34698f801",
+      "computed_md5": "f7b9f57ce0d822ad291956d34698f801",
+      "mimetype": "application/x-hdf"
+    }
+  ],
+  "folder_structure": {
+    "52545956": "CO2_emissions/tiruppur",
+    "52545953": "CO2_emissions/indore",
+    "52545959": "CO2_emissions/chandigarh",
+    "52545962": "CO2_emissions/jaipur",
+    "52545965": "CO2_emissions/vadodara",
+    "52545968": "CO2_emissions/pune",
+    "52545971": "CO2_emissions/mangaluru",
+    "52545974": "CO2_emissions/kolkata",
+    "52545977": "CO2_emissions/guwahati",
+    "52545980": "CO2_emissions/lucknow",
+    "52545983": "CO2_emissions/chennai",
+    "52545989": "CO2_emissions/hyderabad",
+    "52545986": "CO2_emissions/delhi",
+    "52545992": "CO2_emissions/mumbai",
+    "52545995": "CO2_emissions/bengaluru",
+    "52545998": "other_pollutant_emissions/chandigarh",
+    "52546001": "other_pollutant_emissions/tiruppur",
+    "52546004": "other_pollutant_emissions/vadodara",
+    "52546007": "other_pollutant_emissions/mangaluru",
+    "52546010": "other_pollutant_emissions/guwahati",
+    "52546013": "other_pollutant_emissions/pune",
+    "52546016": "other_pollutant_emissions/indore",
+    "52546019": "other_pollutant_emissions/kolkata",
+    "52546022": "other_pollutant_emissions/jaipur",
+    "52546025": "other_pollutant_emissions/lucknow",
+    "52546028": "other_pollutant_emissions/chennai",
+    "52546031": "other_pollutant_emissions/mumbai",
+    "52546034": "other_pollutant_emissions/hyderabad",
+    "52546037": "other_pollutant_emissions/bengaluru",
+    "52546040": "other_pollutant_emissions/delhi"
+  },
+  "authors": [
+    {
+      "id": 20653886,
+      "full_name": "Rohith Teja Mittakola",
+      "first_name": "Rohith Teja",
+      "last_name": "Mittakola",
+      "is_active": true,
+      "url_name": "Rohith_Teja_Mittakola",
+      "orcid_id": "0000-0003-4723-0797"
+    },
+    {
+      "id": 10059184,
+      "full_name": "Philippe Ciais",
+      "first_name": "Philippe",
+      "last_name": "Ciais",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 8640925,
+      "full_name": "Marc Barthelemy",
+      "first_name": "Marc",
+      "last_name": "Barthelemy",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20769692,
+      "full_name": "Qinren Shi",
+      "first_name": "Qinren",
+      "last_name": "Shi",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20769695,
+      "full_name": "Xavier Bonnemaizon",
+      "first_name": "Xavier",
+      "last_name": "Bonnemaizon",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20769698,
+      "full_name": "Nicolas Megel",
+      "first_name": "Nicolas",
+      "last_name": "Megel",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20769700,
+      "full_name": "Harish Phuleria",
+      "first_name": "Harish",
+      "last_name": "Phuleria",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20769713,
+      "full_name": "Kounik De Sarkar",
+      "first_name": "Kounik",
+      "last_name": "De Sarkar",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    },
+    {
+      "id": 20769704,
+      "full_name": "Chuanlong Zhou",
+      "first_name": "Chuanlong",
+      "last_name": "Zhou",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": ""
+    }
+  ],
+  "custom_fields": [],
+  "figshare_url": "https://figshare.com/articles/dataset/_b_High-resolution_gridded_CO_b_sub_2_sub_b_b_b_and_pollutant_emission_data_from_road_traffic_in_Indian_cities_b_/28330067",
+  "download_disabled": false,
+  "description": "<p dir=\"ltr\">We present CHETNA-Road, a comprehensive 500-meter gridded city traffic emissions dataset for 15 Indian cities derived from street-level floating car data (FCD) based on GPS position and speed of individual vehicles. The dataset includes daily CO<sub>2</sub> and ten major pollutant emissions, namely nitrogen oxides (NO\u2093), particulate matter (PM<sub>2.5</sub> and PM\u2081\u2080), carbon monoxide (CO), volatile organic compounds (VOC), methane (CH\u2084), nitrous oxide (N\u2082O), ammonia (NH\u2083), lead (Pb), and black carbon (BC). The emissions were computed using the COPERT model, which includes speed and vehicle-type dependent emission factors. Our dataset provides critical insights into India\u2019s road traffic emissions and serves as a foundation for targeting congestion and pollution reduction strategies.</p>",
+  "funding": "Fully funded by the Grantham Foundation for the Protection of the Environment.",
+  "funding_list": [
+    {
+      "id": 28158146,
+      "title": "Fully funded by the Grantham Foundation for the Protection of the Environment.",
+      "grant_code": "",
+      "funder_name": null,
+      "is_user_defined": 1
+    }
+  ],
+  "version": 2,
+  "status": "public",
+  "size": 1206096974,
+  "created_date": "2025-08-27T10:00:55Z",
+  "modified_date": "2025-08-27T10:00:55Z",
+  "is_public": true,
+  "is_confidential": false,
+  "is_metadata_record": false,
+  "confidential_reason": "",
+  "metadata_reason": "",
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "tags": [
+    "CO2 emissions",
+    "city emissions",
+    "traffic emissions",
+    "pollutants",
+    "greenhouse gas",
+    "climate change",
+    "urban emissions"
+  ],
+  "keywords": [
+    "CO2 emissions",
+    "city emissions",
+    "traffic emissions",
+    "pollutants",
+    "greenhouse gas",
+    "climate change",
+    "urban emissions"
+  ],
+  "categories": [
+    {
+      "id": 25045,
+      "title": "Urban analysis and development",
+      "parent_id": 25015,
+      "path": "/24895/25015/25045",
+      "source_id": "330410",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 26875,
+      "title": "Human impacts of climate change and human adaptation",
+      "parent_id": 26866,
+      "path": "/26863/26866/26875",
+      "source_id": "410103",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 25756,
+      "title": "Climate change processes",
+      "parent_id": 25753,
+      "path": "/25717/25753/25756",
+      "source_id": "370201",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 25759,
+      "title": "Climatology",
+      "parent_id": 25753,
+      "path": "/25717/25753/25759",
+      "source_id": "370202",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 25726,
+      "title": "Air pollution processes and air quality measurement",
+      "parent_id": 25720,
+      "path": "/25717/25720/25726",
+      "source_id": "370102",
+      "taxonomy_id": 100
+    },
+    {
+      "id": 28930,
+      "title": "Data engineering and data science",
+      "parent_id": 28927,
+      "path": "/28798/28927/28930",
+      "source_id": "460501",
+      "taxonomy_id": 100
+    }
+  ],
+  "references": [],
+  "has_linked_file": false,
+  "citation": "Mittakola, Rohith Teja; Ciais, Philippe; Barthelemy, Marc; Shi, Qinren; Bonnemaizon, Xavier; Megel, Nicolas; et al. (2025). High-resolution gridded CO2 and pollutant emission data from road traffic in Indian cities. figshare. Dataset. https://doi.org/10.6084/m9.figshare.28330067.v2",
+  "related_materials": [],
+  "is_embargoed": false,
+  "embargo_date": null,
+  "embargo_type": null,
+  "embargo_title": "",
+  "embargo_reason": "",
+  "embargo_options": [],
+  "id": 28330067,
+  "title": "<b>High-resolution gridded CO2 </b><b>and pollutant emission data from road traffic in Indian cities</b>",
+  "doi": "10.6084/m9.figshare.28330067.v2",
+  "handle": "",
+  "url": "https://api.figshare.com/v2/articles/28330067",
+  "published_date": "2025-08-27T10:00:55Z",
+  "thumb": "",
+  "defined_type": 3,
+  "defined_type_name": "dataset",
+  "group_id": null,
+  "url_private_api": "https://api.figshare.com/v2/account/articles/28330067",
+  "url_public_api": "https://api.figshare.com/v2/articles/28330067",
+  "url_private_html": "https://figshare.com/account/articles/28330067",
+  "url_public_html": "https://figshare.com/articles/dataset/_b_High-resolution_gridded_CO_b_sub_2_sub_b_b_b_and_pollutant_emission_data_from_road_traffic_in_Indian_cities_b_/28330067",
+  "timeline": {
+    "posted": "2025-08-27T10:00:55",
+    "firstOnline": "2025-08-27"
+  },
+  "resource_title": null,
+  "resource_doi": null
+}
