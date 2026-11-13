@@ -61,15 +61,5 @@ Heavy or platform-sensitive dependencies such as GDAL, PyTorch, PyTorch Lightnin
 Typical inputs include city boundaries, annual population grids, land-use/POI data, satellite representations, generated OD tables, road graphs, trajectory/edge-flow tables, EDGAR road-transport CO2 grids, socioeconomic covariates and independent validation inventories. Typical outputs include annual OD matrices, routed distances, edge flows, movement-class shares, city/grid emission predictions, road-level reconstructions, validation tables and manuscript figures.
 
 Units must be checked at module boundaries. The study treats EDGAR road-transport emissions as annual grid totals and converts distance fields explicitly where required. Do not mix metres and kilometres or CO2 and CO2-equivalent inventories without a documented conversion.
-
-## Provenance
-
-`SOURCE_MANIFEST.csv` records every packaged file, its sanitized source location, scientific module and role. Machine-specific copies were consolidated before packaging. Entries marked `third-party` retain upstream project logic and should be used under the upstream licence and citation requirements described in `THIRD_PARTY.md`.
-
-## Reproducibility limits
-
-- Model weights and proprietary/restricted datasets are excluded.
-- External datasets can change or disappear; record retrieval dates and checksums when rebuilding them.
-- Some validation scripts reflect one-off harmonization of inventory boundaries, years and units. Review their constants before reuse.
 - The package preserves the analysis code used for the manuscript, including scientifically distinct experiment variants; it does not claim that every historical script is a polished general-purpose API.
 
