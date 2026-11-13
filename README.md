@@ -61,5 +61,3 @@ Heavy or platform-sensitive dependencies such as GDAL, PyTorch, PyTorch Lightnin
 Typical inputs include city boundaries, annual population grids, land-use/POI data, satellite representations, generated OD tables, road graphs, trajectory/edge-flow tables, EDGAR road-transport CO2 grids, socioeconomic covariates and independent validation inventories. Typical outputs include annual OD matrices, routed distances, edge flows, movement-class shares, city/grid emission predictions, road-level reconstructions, validation tables and manuscript figures.
 
 Units must be checked at module boundaries. The study treats EDGAR road-transport emissions as annual grid totals and converts distance fields explicitly where required. Do not mix metres and kilometres or CO2 and CO2-equivalent inventories without a documented conversion.
-- The package preserves the analysis code used for the manuscript, including scientifically distinct experiment variants; it does not claim that every historical script is a polished general-purpose API.
-
