@@ -4,7 +4,7 @@ This archive contains the research code supporting the three-stage global human-
 
 Raw mobility records, geospatial rasters and vectors, external inventories, trained model weights, cached road networks, and generated figures are intentionally excluded. Paths and connection details have been replaced by portable placeholders.
 
-## Scientific workflow
+## Workflow
 
 1. **OD generation (`01_mobility/01_od_generation`)**
    - Generates annual origin-destination flows from gridded population, land-use and satellite-image covariates.
