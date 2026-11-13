@@ -24,8 +24,6 @@ Raw mobility records, geospatial rasters and vectors, external inventories, trai
    - Emissions: EDGAR-based held-out evaluation and independent local inventories, including Hestia and multicity regional comparisons.
 6. **Mitigation analysis (`04_mitigation_analysis`)**
    - Demand-emission-intensity decomposition, urban portfolio classes, Technological Decarbonization Index sensitivity, and intra-urban population/function/multicentre analyses.
-7. **Figures (`05_figures`)**
-   - Remaining main- and supplementary-figure assembly scripts not already stored with their scientific analysis module.
 
 ## Configuration
 
@@ -44,7 +42,6 @@ No password, SSH host, personal username, or original machine-specific path is i
   -> 02_emission_estimation/road_reconstruction
   -> 03_validation
   -> 04_mitigation_analysis
-  -> 05_figures
 ```
 
 The scripts are research workflows rather than a single command-line application. Run each stage only after its expected inputs have been prepared. Several global operations require substantial RAM, GPU capacity, or a scheduler; test on one city before launching the complete city set.
