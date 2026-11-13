@@ -1,8 +1,6 @@
 # Human Mobility and Road-Transport Emission Workflow
 
-This archive contains the research code supporting the three-stage global human-mobility model, multiscale road-transport CO2 estimation, external validation, and mitigation analyses used in the manuscript *From human mobility to road-network-level mobile emission estimation*.
-
-Raw mobility records, geospatial rasters and vectors, external inventories, trained model weights, cached road networks, and generated figures are intentionally excluded. Paths and connection details have been replaced by portable placeholders.
+This archive contains the research code supporting the three-stage global human-mobility model, multiscale road-transport CO2 estimation, external validation, and mitigation analyses
 
 ## Workflow
 
